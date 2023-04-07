@@ -3900,6 +3900,7 @@ button:focus-visible {
     display: none
 }
 
+
 @media (min-width:1241px) {
     .__7wIyE {
         position: absolute;
@@ -11346,13 +11347,6 @@ body:not(.older-safari) .iazbt>p:nth-child(3) {
     }
 }
 
-@media (width >=600px && width < 960px) {
-
-    .xuTWM .rZUcg,
-    .xuTWM .yvUf2 {
-        grid-column: start/span 3
-    }
-}
 
 @media (min-width:961px) {
 
@@ -11590,11 +11584,6 @@ body:not(.older-safari) .iazbt>p:nth-child(3) {
     color: var(--color-grey-80)
 }
 
-@media (width >=600px && width < 960px) {
-    .xuTWM .VDmgn {
-        padding-right: 3vw
-    }
-}
 
 .__0W_KR .ECCHr,
 .__0W_KR .OmdDI {
@@ -11632,7 +11621,7 @@ body:not(.older-safari) .iazbt>p:nth-child(3) {
     .__6xV7H.__0W_KR {
         display: flex;
         justify-content: center;
-        grid-column: wrapper-start/wrapper-end
+        /* grid-column: wrapper-start/wrapper-end */
     }
 }
 
@@ -15666,4 +15655,39 @@ body:not(.older-safari) .iazbt>p:nth-child(3) {
     contain: paint
 }
 
-/*# sourceMappingURL=97be53423e177a54.css.map*/
+
+.K8v-head .mlegb.N3RCw {
+    color: #000 !important;
+    text-align: center !important;
+}
+
+.K8v-head {
+    width: 100vw;
+    height: calc(100vh - 75px);
+    position: fixed;
+    top: -100vh;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    display: grid;
+    padding: 0 40px;
+    align-items: center;
+    transition: top 0.5s;
+    background: #000;
+
+}
+
+
+button.__6gzTP[data-focus-method]~.K8v-head {
+    top: calc(0vh + 75px);
+    transition-delay: 0s;
+}
+
+.K8v-head li a {
+    padding: var(--spacer-32) 0;
+    font-size: 1.4rem;
+    font-weight: 600;
+    line-height: .9;
+    display: block;
+    color: #fff;
+}
