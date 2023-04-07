@@ -2434,14 +2434,12 @@ html.no-js .marquee {
 
 @media only screen and (min-width:734px) {
     .ul-minh { min-height: 100vh !important; }
-    .vplayer {
-        max-width: calc(100vh - 420px);
-    }
 }
 @media only screen and (min-width:534px) {
     .vplayer video{ transform: scale(1.5);}
 }
 @media only screen and (max-width:734px) {
+    .vplayer { max-width: calc(100vh - 420px); }
     .marquee-logo {
         margin: 0 17px
     }
