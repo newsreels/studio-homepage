@@ -85,3 +85,13 @@ if (document.querySelector('.downloadLink')) {
 }
 
 
+
+// const NewMobileNav = document.getElementById('NewMobileNav');
+console.log("ASD ASDAS")
+// NewMobileNav.addEventListener('click', () => {
+//     if (NewMobileNav.hasAttribute('data-focus')) {
+//         NewMobileNav.removeAttribute('data-focus');
+//     } else {
+//         NewMobileNav.setAttribute('data-focus', 'open');
+//     }
+// });

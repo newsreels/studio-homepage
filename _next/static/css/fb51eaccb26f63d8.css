@@ -513,6 +513,7 @@ input[type=number]::-webkit-outer-spin-button {
     -moz-appearance: textfield
 }
 
+
 input[type=number]::-webkit-inner-spin-button:focus,
 input[type=number]::-webkit-inner-spin-button:hover,
 input[type=number]::-webkit-outer-spin-button:focus,
@@ -11352,7 +11353,7 @@ body:not(.older-safari) .iazbt>p:nth-child(3) {
     }
 }
 
-@media (min-width: 600px) and (max-width: 959px){
+@media (min-width: 600px) and (max-width: 959px) {
 
     .xuTWM .rZUcg,
     .xuTWM .yvUf2 {
@@ -15672,4 +15673,4 @@ body:not(.older-safari) .iazbt>p:nth-child(3) {
     contain: paint
 }
 
-/*# sourceMappingURL=fb51eaccb26f63d8.css.map*/
+
