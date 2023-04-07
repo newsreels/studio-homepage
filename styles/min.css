@@ -1204,7 +1204,7 @@ br.medium {
 }
 
 .red-bg {
-    background-color: #f73558;
+    background-color: #000;
     color: #fff
 }
 
@@ -1233,7 +1233,7 @@ br.medium {
 @media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:734px) and (min-resolution:1.5dppx), only screen and (max-width:734px) and (min-resolution:144dpi) { .image-icon-news-plus { background-image: url(/images/logos/6.png) } }
 .button-news {
     font-weight: 600;
-    background: #f73558;
+    background: #000;
     color: #fff
 }
 
@@ -1247,7 +1247,7 @@ br.medium {
 
 .button-news.disabled,
 .button-news:disabled {
-    background: #f73558;
+    background: #000;
     color: #fff;
     opacity: .6
 }
@@ -1621,7 +1621,7 @@ html.reduced-motion .hero-top {
 }
 
 .hero-title {
-    color: #f73558
+    color: #000
 }
 
 .hero-headline {
@@ -1661,7 +1661,7 @@ html.reduced-motion .hero-top {
 }
 
 .hero-bottom {
-    background-color: #f73558;
+    background-color: #000;
     position: relative;
     -webkit-transform: translate(0);
     transform: translate(0)
