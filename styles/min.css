@@ -1204,7 +1204,7 @@ br.medium {
 }
 
 .red-bg {
-    background-color: #f73558;
+    background-color: #000;
     color: #fff
 }
 
@@ -1233,7 +1233,7 @@ br.medium {
 @media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:734px) and (min-resolution:1.5dppx), only screen and (max-width:734px) and (min-resolution:144dpi) { .image-icon-news-plus { background-image: url(/images/logos/6.png) } }
 .button-news {
     font-weight: 600;
-    background: #f73558;
+    background: #000;
     color: #fff
 }
 
@@ -1247,7 +1247,7 @@ br.medium {
 
 .button-news.disabled,
 .button-news:disabled {
-    background: #f73558;
+    background: #000;
     color: #fff;
     opacity: .6
 }
@@ -1621,7 +1621,7 @@ html.reduced-motion .hero-top {
 }
 
 .hero-title {
-    color: #f73558
+    color: #000
 }
 
 .hero-headline {
@@ -1661,7 +1661,7 @@ html.reduced-motion .hero-top {
 }
 
 .hero-bottom {
-    background-color: #f73558;
+    background-color: #000;
     position: relative;
     -webkit-transform: translate(0);
     transform: translate(0)
@@ -1762,7 +1762,7 @@ html.no-js .section-hero .device-gallery {
 @media only screen and (max-width: 734px) {
     .section-hero .device-hardware {
         top: -6px;
-        left: -1px
+        left: -40px
     }
 }
 
@@ -2280,9 +2280,9 @@ only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
 
 @media only screen and (max-width: 734px) {
     html.no-reduced-motion .image-hero-screen-wsj {
-        width: 186px;
-        height: 401px;
-        background-size: 186px 401px;
+        width: 263px;
+        height: 444px;
+        background-size: 263px 444px;
         background-repeat: no-repeat;
         background-image: url("guyblue.png")
 
@@ -2432,11 +2432,22 @@ html.no-js .marquee {
     }
 }
 
+@media only screen and (min-width:734px) {
+    .ul-minh { min-height: 100vh !important; }
+}
+@media only screen and (min-width:534px) {
+    .vplayer video{ transform: scale(1.5);}
+}
 @media only screen and (max-width:734px) {
+    .vplayer { max-width: calc(100vh - 420px); }
     .marquee-logo {
         margin: 0 17px
     }
 }
+
+button.bvBoQ.OVArd[data-focus-method] + div.ilEyH {
+    height: auto !important;
+} 
 
 .image-hero-logo-adweek { width: 80px; height: 47px; background-size: 80px 47px; background-repeat: no-repeat; background-image: url(/images/logos/1.png); min-width: 80px }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi) { .image-hero-logo-adweek { background-image: url(/images/logos/1.png) } }

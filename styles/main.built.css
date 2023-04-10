@@ -8194,7 +8194,7 @@ br.small {
 }
 
 .red-bg {
-    background-color: #f73558;
+    background-color: #000;
     color: #fff
 }
 
@@ -8265,7 +8265,7 @@ only screen and (max-width: 734px) and (min-resolution: 144dpi) {
 .button-news,
 #ac-localnav .ac-ln-button {
     font-weight: 600;
-    background: #f73558;
+    background: #000;
     color: #fff
 }
 
@@ -8283,7 +8283,7 @@ only screen and (max-width: 734px) and (min-resolution: 144dpi) {
 #ac-localnav .ac-ln-button:disabled,
 .button-news.disabled,
 #ac-localnav .disabled.ac-ln-button {
-    background: #f73558;
+    background: #000;
     color: #fff;
     opacity: .6
 }
@@ -8558,7 +8558,7 @@ only screen and (max-width: 734px) and (min-resolution: 144dpi) {
 .sticky-button-light #ac-localnav .ac-ln-button,
 #ac-localnav .sticky-button-light .ac-ln-button {
     background: #fff;
-    color: #f73558
+    color: #000
 }
 
 .sticky-button-light .button-news:hover,
@@ -8580,7 +8580,7 @@ only screen and (max-width: 734px) and (min-resolution: 144dpi) {
 .sticky-button-light #ac-localnav .disabled.ac-ln-button,
 #ac-localnav .sticky-button-light .disabled.ac-ln-button {
     background: #fff;
-    color: #f73558;
+    color: #000;
     opacity: .6
 }
 

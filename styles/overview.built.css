@@ -86,7 +86,7 @@ html.reduced-motion .hero-top {
 }
 
 .hero-title {
-    color: #f73558
+    color: #000
 }
 
 .hero-headline {
@@ -126,7 +126,7 @@ html.reduced-motion .hero-top {
 }
 
 .hero-bottom {
-    background-color: #f73558;
+    background-color: #000;
     position: relative;
     -webkit-transform: translate(0);
     transform: translate(0)
@@ -7592,7 +7592,7 @@ only screen and (max-width: 734px) and (min-resolution: 144dpi) {
 }
 
 .section-my-sports .eyebrow {
-    color: #f73558;
+    color: #000;
     font-weight: 700;
     margin-bottom: 17px
 }
@@ -7858,7 +7858,7 @@ html.text-zoom .section-features .row.last-row .copy {
 
 .section-features .eyebrow {
     font-weight: 700;
-    color: #f73558
+    color: #000
 }
 
 .section-features .headline {
@@ -12958,7 +12958,7 @@ background-image : url("014e21.webp")
 }
 
 .image-features-screen-privacy {
-    background: #f73558;
+    background: #000;
     width: 248px;
     height: 535px
 }
@@ -13236,7 +13236,7 @@ background-image : url("014e21.webp")
 }
 
 .section-plans .plans-detail .column.column-newsplus .icon-check {
-    color: #f73558
+    color: #000
 }
 
 @media only screen and (max-width: 734px) {
@@ -13326,7 +13326,7 @@ html.text-zoom .section-plans .section-content {
 
 .section-faq .accordion-button:hover .accordion-title-text,
 .section-faq .accordion-button:hover .accordion-icon {
-    color: #f73558
+    color: #000
 }
 
 .section-tiles-grid {
