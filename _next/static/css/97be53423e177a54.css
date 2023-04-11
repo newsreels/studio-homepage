@@ -14460,6 +14460,16 @@ body:not(.older-safari) .iazbt>p:nth-child(3) {
         display: inline;
         display: initial;
     }
+
+    div:nth-child(2)>ul>li:nth-child(3)>div.qs5ya.GsztZ>div {
+        background-color: transparent !important
+    }
+}
+
+@media (min-width: 960px) {
+    div:nth-child(2)>ul>li:nth-child(3)>div.qs5ya.GsztZ>div {
+        background-color: black !important;
+    }
 }
 
 .NYwut .Xt6D_ {

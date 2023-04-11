@@ -1,0 +1,204 @@
+.navMobile {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 100vw;
+
+    /* resolves issue with mobile safari not calculating the viewport height properly, causing the address bar to cover up the bottom of content */
+    height: calc(var(--vh, 1vh) * 100 - var(--banner-height, 0px));
+    padding-top: var(--banner-height, 0);
+    pointer-events: none;
+}
+
+.navMobile.active {
+    pointer-events: all;
+}
+
+@media (--md) {
+    .navMobile {
+        display: none;
+    }
+}
+
+/* fixes safari ios rendering issue with backdrop blur */
+.navMobile .backdrop {
+    min-width: 1px;
+    min-height: 1px;
+
+    /* always have the blur on mobile */
+    -webkit-backdrop-filter: saturate(var(--nav-saturate)) blur(var(--nav-blur));
+    backdrop-filter: saturate(var(--nav-saturate)) blur(var(--nav-blur));
+    background: var(--color-alpha-dark-30);
+}
+
+.navMobileOverlay {
+    display: none;
+
+    /* fix subpixel spacing issue when scaled down */
+    width: calc(100% + 0.1rem);
+    height: 100%;
+    background: var(--color-alpha-black-90);
+    opacity: 0;
+    pointer-events: none;
+    transform-origin: 0 0;
+}
+
+@media (--sm) {
+    .navMobileOverlay {
+        position: absolute;
+        display: block;
+    }
+}
+
+.navMobileWrapper {
+    position: absolute;
+    left: 0;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    background: var(--alpha-dark-5);
+    visibility: hidden;
+}
+
+@media (--sm) {
+    .navMobileWrapper {
+        left: 50%;
+        width: 50%;
+    }
+}
+
+.navMobileContent {
+    height: 100%;
+    padding: var(--spacer-96) var(--spacer-24) var(--spacer-32);
+    list-style: none;
+}
+
+@media (--sm) {
+    .navMobileContent {
+        padding: var(--spacer-160) 0 var(--spacer-64);
+        margin-right: var(--grid-computed-margin-width);
+
+        --subgrid-width: calc(var(--grid-number-of-columns) / 2);
+    }
+}
+
+.navMobileMainLinks {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacer-8);
+    transform-origin: 0 0;
+}
+
+.navMobileItems {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    grid-column: 1 / -1;
+
+    @media (--sm) {
+        gap: var(--spacer-4);
+        grid-column: 2 / -1;
+    }
+}
+
+.navMobileBottomLinks {
+    display: flex;
+    align-items: center;
+    gap: var(--spacer-24);
+}
+
+.navMobileBottomLink {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.navMobileBottomLink:hover {
+    --button-hover-progress: 1;
+}
+
+.navigationButton {
+    padding: var(--spacer-12) var(--spacer-12) 1.1rem;
+}
+
+.navMobileBottomLinkArrow {
+    position: relative;
+}
+
+.navMobileButton {
+    position: absolute;
+    z-index: var(--z-index-nav);
+    top: 2.3rem;
+    right: 0;
+    width: 2rem;
+    height: 2.5rem;
+    backface-visibility: hidden;
+    pointer-events: all;
+    transform-origin: 50% 50%;
+}
+
+@media (--sm) {
+    .navMobileButton {
+        top: 2.7rem;
+    }
+}
+
+@media (--md) {
+    .navMobileButton {
+        display: none;
+    }
+}
+
+.navMobileButtonLine {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: block;
+    overflow: hidden;
+    transform: translate(-50%, -50%);
+    transform-origin: 50% 50%;
+}
+
+.navMobileButtonLineEl {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    background: var(--color-grey-95);
+    border-radius: 0.7em;
+    transition: all 0.2s ease-out;
+}
+
+.navMobileButtonLine:nth-child(1) {
+    transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.navMobileButtonLine:nth-child(1) .navMobileButtonLineEl {
+    transform-origin: 0 0;
+}
+
+.navMobileButtonLine:nth-child(2) {
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.navMobileButtonLine:nth-child(2) .navMobileButtonLineEl {
+    transform-origin: 0 0;
+}
+
+.navMobileButtonLine:nth-child(3) {
+    transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.navMobileButtonLine:nth-child(3) .navMobileButtonLineEl {
+    bottom: 0;
+    transform-origin: 0 100%;
+}
+
+.navMobileButtonLine:nth-child(4) {
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.navMobileButtonLine:nth-child(4) .navMobileButtonLineEl {
+    bottom: 0;
+    transform-origin: 0 100%;
+}
