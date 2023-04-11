@@ -11097,7 +11097,7 @@ body:not(.older-safari) .iazbt>p:nth-child(3) {
     grid-column: wrapper-start/wrapper-end
 }
 
-@media (min-width:961px) {
+@media (min-width:1px) {
     .gKn0N {
         display: grid;
         margin: initial;
@@ -14455,10 +14455,10 @@ body:not(.older-safari) .iazbt>p:nth-child(3) {
     justify-content: flex-start
 }
 
-@media (min-width:961px) {
+@media (min-width:1px) {
     .NYwut .oJVA5 {
         display: inline;
-        display: initial
+        display: initial;
     }
 }
 
