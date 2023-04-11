@@ -470,7 +470,7 @@
                     , d = u.projectId
                     , f = u.dataset
                     , h = t ? l(t) : "";
-                return "https://cdn.sanity.io/images/".concat(d, "/").concat(f, "/").concat(o, "-").concat(a, ".").concat(s).concat(h)
+                return "/images/".concat(d, "/").concat(f, "/").concat(o, "-").concat(a, ".").concat(s).concat(h)
             }
         }),
             e.exports = d
