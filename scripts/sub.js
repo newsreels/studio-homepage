@@ -2,7 +2,8 @@
 if (document.querySelector('.hNFq9')) {
     document.querySelectorAll('.hNFq9').forEach((button) => {
         button.addEventListener('click', (a) => {
-            let t  = a.target.closest('.hNFq9')
+            let t = a.target.closest('.hNFq9')
+            console.log('target',t)
             if (t.hasAttribute('data-focus')) {
                 t.removeAttribute('data-focus');
             } else {
@@ -25,3 +26,4 @@ if (document.querySelector('.downloadLink')) {
         }
     })
 }
+
