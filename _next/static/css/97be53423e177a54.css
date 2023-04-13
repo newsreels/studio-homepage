@@ -3316,7 +3316,6 @@ button:focus-visible {
 }
 
 .F80eb {
-    min-height: 100%;
     padding: var(--spacer-32) var(--spacer-32) var(--spacer-40) var(--spacer-32);
     border: 1px solid var(--color-grey-10);
     background-color: var(--color-grey-05);
