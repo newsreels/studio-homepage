@@ -114,8 +114,8 @@
                     <div class="F_Mcl"><a class="QZQv_" href="/">
                             <img src="/images/logo.png" alt="">
                         </a></div>
-                    <div role="dialog" aria-labelledby="mobileNav">
-                        <button class="__6gzTP nav-tog" aria-label="Toggle mobile navigation"
+                    <div>
+                        <label for="inputNavMain" class="__6gzTP "
                             style="translate: none; rotate: none; scale: none; transform: rotate(90deg);"><span
                                 class="Fape_" style="height: 24px; width: 4px;"><span class="xJKVR"
                                     style="height: 4px;"></span></span><span class="Fape_"
@@ -124,7 +124,9 @@
                                 style="height: 24px; width: 4px;"><span class="xJKVR"
                                     style="height: 4px;"></span></span><span class="Fape_"
                                 style="height: 24px; width: 4px;"><span class="xJKVR"
-                                    style="height: 4px;"></span></span></button>
+                                    style="height: 4px;"></span></span>
+                        </label>
+                        <input type="checkbox" id="inputNavMain" class="hide inputNavMain" />
                         <div class="K8v-head">
                             <ul>
                                 <li> <a href="/">Home</a> </li>
@@ -132,7 +134,7 @@
                                 <li><a href="/studio.html">Studio</a> </li>
                             </ul>
                             <ul>
-                                <li><a href="" class="downloadLink __5gJr1 __1HBn2 OVArd mlegb N3RCw">Download The
+                                <li><a href="https://news.bullets.app/APWq/siteios" class="downloadLink __5gJr1 __1HBn2 OVArd mlegb N3RCw">Download The
                                         App</a></li>
                             </ul>
                         </div>
@@ -147,7 +149,7 @@
                         <li>
                     </ul>
                     <ul class="Wi_HN">
-                        <li><a href="" class="downloadLink JPAgA __1HBn2 OVArd mlegb __30iHv pgyqc" target="_self"
+                        <li><a href="https://news.bullets.app/APWq/siteios" class="downloadLink JPAgA __1HBn2 OVArd mlegb __30iHv pgyqc" target="_self"
                                 rel="noreferrer">Download The App</a></li>
                     </ul>
                 </div>
@@ -1360,13 +1362,24 @@
                             <h3 class="__57oio __8oH3Q VdXoy">Frequently asked questions</h3>
                         </div>
                     </div>
+                    <style>
+                        .hideinput:checked~div {
+                            height: auto !important;
+                        }
+
+                        .hideinput {
+                            display: none;
+                        }
+                    </style>
                     <div class="fGCo6">
-                        <div class="hNFq9"><button class="P8Ll_ Yau3y gVnvj">When can I access the dashboard?<svg
+                        <div class="hNFq9">
+                            <label for="WhenCanIAccess" class="P8Ll_ Yau3y gVnvj">When can I access the dashboard?<svg
                                     viewBox="0 0 16 16" fill="none" class="IbGTM">
                                     <path fill-rule="evenodd" clip-rule="evenodd"
                                         d="M8 11.5a.75.75 0 0 1-.53-.22l-5.5-5.5a.75.75 0 0 1 1.06-1.06L8 9.69l4.97-4.97a.75.75 0 1 1 1.06 1.06l-5.5 5.5a.75.75 0 0 1-.53.22Z"
                                         fill="#fff"></path>
-                                </svg></button>
+                                </svg></label>
+                            <input type="checkbox" id="WhenCanIAccess" class="hideinput" />
                             <div class="__0PEQU NkibJ" style="height: 0px;">
                                 <div class="qs5ya B9Lyl">
                                     <div class="DbFIs O3_ec">
@@ -1376,12 +1389,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="hNFq9"><button class="P8Ll_ Yau3y gVnvj">When does monetization start?<svg
+                        <div class="hNFq9">
+                            <label for="WhenMonetization" class="P8Ll_ Yau3y gVnvj">When does monetization start?<svg
                                     viewBox="0 0 16 16" fill="none" class="IbGTM">
                                     <path fill-rule="evenodd" clip-rule="evenodd"
                                         d="M8 11.5a.75.75 0 0 1-.53-.22l-5.5-5.5a.75.75 0 0 1 1.06-1.06L8 9.69l4.97-4.97a.75.75 0 1 1 1.06 1.06l-5.5 5.5a.75.75 0 0 1-.53.22Z"
                                         fill="#fff"></path>
-                                </svg></button>
+                                </svg></label>
+                            <input type="checkbox" id="WhenMonetization" class="hideinput" />
                             <div class="__0PEQU NkibJ" style="height: 0px;">
                                 <div class="qs5ya B9Lyl">
                                     <div class="DbFIs O3_ec">
@@ -1392,12 +1407,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="hNFq9"><button class="P8Ll_ Yau3y gVnvj">Do I start earning from day one?<svg
+                        <div class="hNFq9">
+                            <label for="startEarning" class="P8Ll_ Yau3y gVnvj">Do I start earning from day one?<svg
                                     viewBox="0 0 16 16" fill="none" class="IbGTM">
                                     <path fill-rule="evenodd" clip-rule="evenodd"
                                         d="M8 11.5a.75.75 0 0 1-.53-.22l-5.5-5.5a.75.75 0 0 1 1.06-1.06L8 9.69l4.97-4.97a.75.75 0 1 1 1.06 1.06l-5.5 5.5a.75.75 0 0 1-.53.22Z"
                                         fill="#fff"></path>
-                                </svg></button>
+                                </svg></label>
+                            <input type="checkbox" id="startEarning" class="hideinput" />
                             <div class="__0PEQU NkibJ" style="height: 0px;">
                                 <div class="qs5ya B9Lyl">
                                     <div class="DbFIs O3_ec">
@@ -1408,12 +1425,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="hNFq9"><button class="P8Ll_ Yau3y gVnvj">What is the stage of the product?<svg
+                        <div class="hNFq9">
+                            <label for="stageTheProduct" class="P8Ll_ Yau3y gVnvj">What is the stage of the product?<svg
                                     viewBox="0 0 16 16" fill="none" class="IbGTM">
                                     <path fill-rule="evenodd" clip-rule="evenodd"
                                         d="M8 11.5a.75.75 0 0 1-.53-.22l-5.5-5.5a.75.75 0 0 1 1.06-1.06L8 9.69l4.97-4.97a.75.75 0 1 1 1.06 1.06l-5.5 5.5a.75.75 0 0 1-.53.22Z"
                                         fill="#fff"></path>
-                                </svg></button>
+                                </svg></label>
+                            <input type="checkbox" id="stageTheProduct" class="hideinput" />
                             <div class="__0PEQU NkibJ" style="height: 0px;">
                                 <div class="qs5ya B9Lyl">
                                     <div class="DbFIs O3_ec">
@@ -1422,7 +1441,7 @@
                                             beta.
                                             <br />
                                             <br />
-                                            <a href="" class="downloadLink JPAgA __1HBn2 OVArd mlegb __30iHv pgyqc"
+                                            <a href="https://news.bullets.app/APWq/siteios" class="downloadLink JPAgA __1HBn2 OVArd mlegb __30iHv pgyqc"
                                                 target="_self" style="color: #000;text-decoration: none;"
                                                 rel="noreferrer">Download The App</a>
                                         </p>
@@ -1430,12 +1449,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="hNFq9"><button class="P8Ll_ Yau3y gVnvj">When will newsreels launch?<svg
+                        <div class="hNFq9">
+                            <label for="newsreelsLaunch" class="P8Ll_ Yau3y gVnvj">When will newsreels launch?<svg
                                     viewBox="0 0 16 16" fill="none" class="IbGTM">
                                     <path fill-rule="evenodd" clip-rule="evenodd"
                                         d="M8 11.5a.75.75 0 0 1-.53-.22l-5.5-5.5a.75.75 0 0 1 1.06-1.06L8 9.69l4.97-4.97a.75.75 0 1 1 1.06 1.06l-5.5 5.5a.75.75 0 0 1-.53.22Z"
                                         fill="#fff"></path>
-                                </svg></button>
+                                </svg></label>
+                            <input type="checkbox" id="newsreelsLaunch" class="hideinput" />
                             <div class="__0PEQU NkibJ" style="height: 0px;">
                                 <div class="qs5ya B9Lyl">
                                     <div class="DbFIs O3_ec">
@@ -1445,12 +1466,15 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="hNFq9"><button class="P8Ll_ Yau3y gVnvj">How can I help the Newsreels community?
+                        <div class="hNFq9">
+                            <label for="NewsreelsCommunity" class="P8Ll_ Yau3y gVnvj">How can I help the Newsreels
+                                community?
                                 <svg viewBox="0 0 16 16" fill="none" class="IbGTM">
                                     <path fill-rule="evenodd" clip-rule="evenodd"
                                         d="M8 11.5a.75.75 0 0 1-.53-.22l-5.5-5.5a.75.75 0 0 1 1.06-1.06L8 9.69l4.97-4.97a.75.75 0 1 1 1.06 1.06l-5.5 5.5a.75.75 0 0 1-.53.22Z"
                                         fill="#fff"></path>
-                                </svg></button>
+                                </svg></label>
+                            <input type="checkbox" id="NewsreelsCommunity" class="hideinput" />
                             <div class="__0PEQU NkibJ" style="height: 0px;">
                                 <div class="qs5ya B9Lyl">
                                     <div class="DbFIs O3_ec">
@@ -1689,7 +1713,6 @@
 
 
 
-
             <footer class="__97GJI" style="--footer-progress:0rem;">
                 <div class=" rZjqm" style="padding-bottom: 30px;">
                     <div class="Jjc49"><a href="/">
@@ -1711,12 +1734,14 @@
                                 </ul>
                             </div>
                             <div class="_zEHW">
-                                <div class="hNFq9"><button class="P8Ll_ bvBoQ OVArd">Overview<svg viewBox="0 0 16 16"
+                                <div class="hNFq9">
+                                    <label for="Overview" class="P8Ll_ bvBoQ OVArd">Overview<svg viewBox="0 0 16 16"
                                             fill="none" class="IbGTM WfAdy">
                                             <path fill-rule="evenodd" clip-rule="evenodd"
                                                 d="M8 11.5a.75.75 0 0 1-.53-.22l-5.5-5.5a.75.75 0 0 1 1.06-1.06L8 9.69l4.97-4.97a.75.75 0 1 1 1.06 1.06l-5.5 5.5a.75.75 0 0 1-.53.22Z"
                                                 fill="#fff"></path>
-                                        </svg></button>
+                                        </svg></label>
+                                    <input type="checkbox" class="hide targetInput" id="Overview">
                                     <div class="__0PEQU ilEyH" style="height: 0px;">
                                         <ul>
 
@@ -1750,12 +1775,14 @@
                                 </ul>
                             </div>
                             <div class="_zEHW">
-                                <div class="hNFq9"><button class="P8Ll_ bvBoQ OVArd"> NewsReels Studio<svg
+                                <div class="hNFq9">
+                                    <label for="NewsReelsStudio" class="P8Ll_ bvBoQ OVArd"> NewsReels Studio<svg
                                             viewBox="0 0 16 16" fill="none" class="IbGTM WfAdy">
                                             <path fill-rule="evenodd" clip-rule="evenodd"
                                                 d="M8 11.5a.75.75 0 0 1-.53-.22l-5.5-5.5a.75.75 0 0 1 1.06-1.06L8 9.69l4.97-4.97a.75.75 0 1 1 1.06 1.06l-5.5 5.5a.75.75 0 0 1-.53.22Z"
                                                 fill="#fff"></path>
-                                        </svg></button>
+                                        </svg></label>
+                                    <input type="checkbox" class="hide targetInput" id="NewsReelsStudio">
                                     <div class="__0PEQU ilEyH" style="height: 0px;">
                                         <ul>
                                             <li><a href="/soon.html" aria-current="false" tabindex="-1"
@@ -1782,12 +1809,14 @@
                                 </ul>
                             </div>
                             <div class="_zEHW">
-                                <div class="hNFq9"><button class="P8Ll_ bvBoQ OVArd">Company<svg viewBox="0 0 16 16"
+                                <div class="hNFq9">
+                                    <label for="Company" class="P8Ll_ bvBoQ OVArd">Company<svg viewBox="0 0 16 16"
                                             fill="none" class="IbGTM WfAdy">
                                             <path fill-rule="evenodd" clip-rule="evenodd"
                                                 d="M8 11.5a.75.75 0 0 1-.53-.22l-5.5-5.5a.75.75 0 0 1 1.06-1.06L8 9.69l4.97-4.97a.75.75 0 1 1 1.06 1.06l-5.5 5.5a.75.75 0 0 1-.53.22Z"
                                                 fill="#fff"></path>
-                                        </svg></button>
+                                        </svg></label>
+                                    <input type="checkbox" class="hide targetInput" id="Company">
                                     <div class="__0PEQU ilEyH" style="height: 0px;">
                                         <ul>
                                             <li><a href="/soon.html" aria-current="page" tabindex="-1"
@@ -1818,12 +1847,15 @@
                                 </ul>
                             </div>
                             <div class="_zEHW">
-                                <div class="hNFq9"><button class="P8Ll_ bvBoQ OVArd">Support<svg viewBox="0 0 16 16"
+                                <div class="hNFq9">
+                                    <label for="Support" class="P8Ll_ bvBoQ OVArd">Support<svg viewBox="0 0 16 16"
                                             fill="none" class="IbGTM WfAdy">
                                             <path fill-rule="evenodd" clip-rule="evenodd"
                                                 d="M8 11.5a.75.75 0 0 1-.53-.22l-5.5-5.5a.75.75 0 0 1 1.06-1.06L8 9.69l4.97-4.97a.75.75 0 1 1 1.06 1.06l-5.5 5.5a.75.75 0 0 1-.53.22Z"
                                                 fill="#fff"></path>
-                                        </svg></button>
+                                        </svg>
+                                    </label>
+                                    <input type="checkbox" class="hide targetInput" id="Support">
                                     <div class="__0PEQU ilEyH" style="height: 0px;">
                                         <ul>
                                             <li><a href="/privacy-policy.html" aria-current="false" tabindex="-1"

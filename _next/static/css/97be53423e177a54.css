@@ -15687,7 +15687,7 @@ body:not(.older-safari) .iazbt>p:nth-child(3) {
 }
 
 
-button.__6gzTP[data-focus-method]~.K8v-head {
+input#inputNavMain:checked~.K8v-head {
     top: calc(0vh + 75px);
     transition-delay: 0s;
 }
@@ -15699,4 +15699,26 @@ button.__6gzTP[data-focus-method]~.K8v-head {
     line-height: .9;
     display: block;
     color: #fff;
+}
+
+@media screen and (max-width:700px) {
+    .__6SBOm.AFOr6.__3XpvL.FNZtS.FdVA_.unSbn {
+        display: block;
+    }
+
+    .__6SBOm.AFOr6.__3XpvL.FNZtS.FdVA_.unSbn>div {
+        margin-bottom: 10px;
+        max-height: 230px;
+    }
+}
+input.targetInput {
+    display: none;
+}
+
+input.targetInput:checked~div.__0PEQU {
+    height: 100% !important;
+}
+
+#inputNavMain {
+    display: none;
 }
