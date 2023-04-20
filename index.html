@@ -155,7 +155,17 @@
 
                 </div>
             </div>
-
+            <style>
+                .device-screen>video {
+                    object-fit: contain
+                }
+                .device-hardware.image-hero-hardware {
+                    display: none;
+                }
+                html.no-reduced-motion .device-screen-image.image-hero-screen-wsj.nRF1M.__0O2Cb.show {
+                    background-image: unset !important;
+                }
+            </style>
 
 
 
@@ -177,7 +187,11 @@
                                             <div class="device-screen-image image-hero-screen-people"></div>
                                             <div class="device-screen-image image-hero-screen-latimes"></div>
                                             <div class="device-screen-image image-hero-screen-atlantic"></div> -->
-                                            <div class="device-screen-image image-hero-screen-wsj"></div>
+                                            <!-- <div class=""></div> -->
+                                            <video playsinline loop muted autoplay="autoplay"
+                                                class="device-screen-image image-hero-screen-wsj nRF1M __0O2Cb">
+                                                <source src="/images/videos/video.webm" type="video/mp4" />
+                                            </video>
                                         </div>
                                     </figure>
                                 </div>
