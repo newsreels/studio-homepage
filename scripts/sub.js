@@ -44,6 +44,6 @@ videos.forEach(video => {
     observer.observe(video);
 
     video.addEventListener("ended", () => {
-        video.currentTime = 0;
+       video.currentTime = video.duration;
     });
 });
