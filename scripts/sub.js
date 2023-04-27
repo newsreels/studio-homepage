@@ -23,3 +23,27 @@ document.querySelectorAll('.downloadLink').forEach((button) => {
     }
 })
 
+
+const videos = document.querySelectorAll("video");
+const options = {
+    rootMargin: "0px",
+    threshold: 0.18,
+};
+
+videos.forEach(video => {
+    const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                video.play();
+            } else {
+                video.pause();
+            }
+        });
+    }, options);
+
+    observer.observe(video);
+
+    video.addEventListener("ended", () => {
+        video.currentTime = 0;
+    });
+});
