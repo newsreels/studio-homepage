@@ -2349,7 +2349,7 @@ only screen and (max-width: 734px) and (min-resolution: 144dpi) {
     transition: opacity 250ms ease-out;
     --slide-width: -50%;
     --animation-play-state: paused;
-    -webkit-animation: marquee 500s linear infinite normal var(--animation-play-state);
+    -webkit-animation: marquee 50s linear infinite normal var(--animation-play-state);
     animation: marquee 50s linear infinite normal var(--animation-play-state)
     /* speed  1*/
 }
