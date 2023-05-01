@@ -2152,7 +2152,7 @@ html.no-reduced-motion .image-hero-screen-latimes {
     height: 704px;
     background-size: 492px 704px;
     background-repeat: no-repeat;
-    background-image: url("guyblue.webp")
+    background-image: url("guyblue.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
@@ -2160,7 +2160,7 @@ only screen and (min-resolution: 1.5dppx),
 (-webkit-min-device-pixel-ratio: 1.5),
 (min-resolution: 144dpi) {
     html.no-reduced-motion .image-hero-screen-latimes {
-        background-image: url("guyblue.webp")
+        background-image: url("guyblue.png")
     }
 }
 
@@ -2170,7 +2170,7 @@ only screen and (min-resolution: 1.5dppx),
         height: 567px;
         background-size: 396px 567px;
         background-repeat: no-repeat;
-        background-image: url("guyblue.webp")
+        background-image: url("guyblue.png")
     }
 }
 
@@ -2180,7 +2180,7 @@ only screen and (min-resolution: 1.5dppx),
         height: 401px;
         background-size: 186px 401px;
         background-repeat: no-repeat;
-        background-image: url("guyblue.webp")
+        background-image: url("guyblue.png")
     }
 }
 
@@ -2188,7 +2188,7 @@ only screen and (min-resolution: 1.5dppx),
 only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
 only screen and (max-width: 734px) and (min-resolution: 144dpi) {
     html.no-reduced-motion .image-hero-screen-latimes {
-        background-image: url("guyblue.webp")
+        background-image: url("guyblue.png")
     }
 }
 
@@ -2250,7 +2250,7 @@ html.no-reduced-motion .image-hero-screen-wsj {
     height: 704px;
     background-size: 492px 704px;
     background-repeat: no-repeat;
-    background-image: url("guyblue.webp")
+    background-image: url("guyblue.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
@@ -2258,7 +2258,7 @@ only screen and (min-resolution: 1.5dppx),
 (-webkit-min-device-pixel-ratio: 1.5),
 (min-resolution: 144dpi) {
     html.no-reduced-motion .image-hero-screen-wsj {
-        background-image: url("guyblue.webp")
+        background-image: url("guyblue.png")
     }
 }
 
@@ -2268,7 +2268,7 @@ only screen and (min-resolution: 1.5dppx),
         height: 567px;
         background-size: 396px 567px;
         background-repeat: no-repeat;
-        background-image: url("guyblue.webp")
+        background-image: url("guyblue.png")
     }
 }
 
@@ -2276,7 +2276,7 @@ only screen and (min-resolution: 1.5dppx),
 only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
 only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
     html.no-reduced-motion .image-hero-screen-wsj {
-        background-image: url("guyblue.webp")
+        background-image: url("guyblue.png")
     }
 }
 
@@ -2286,7 +2286,7 @@ only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
         height: 444px;
         background-size: 263px 444px;
         background-repeat: no-repeat;
-        background-image: url("guyblue.webp")
+        background-image: url("guyblue.png")
     }
 }
 
@@ -2294,7 +2294,7 @@ only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
 only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
 only screen and (max-width: 734px) and (min-resolution: 144dpi) {
     html.no-reduced-motion .image-hero-screen-wsj {
-        background-image: url("guyblue.webp")
+        background-image: url("guyblue.png")
     }
 }
 
@@ -2349,8 +2349,9 @@ only screen and (max-width: 734px) and (min-resolution: 144dpi) {
     transition: opacity 250ms ease-out;
     --slide-width: -50%;
     --animation-play-state: paused;
-    -webkit-animation: marquee 50s linear infinite normal var(--animation-play-state);
+    -webkit-animation: marquee 500s linear infinite normal var(--animation-play-state);
     animation: marquee 50s linear infinite normal var(--animation-play-state)
+    /* speed  1*/
 }
 
 @media only screen and (max-width:1068px) {
@@ -2361,7 +2362,8 @@ only screen and (max-width: 734px) and (min-resolution: 144dpi) {
 
 @media only screen and (max-width:734px) {
     .marquee {
-        margin-top: 30px
+        margin-top: 30px;
+            animation: marquee 62.5s linear infinite normal var(--animation-play-state)
     }
 }
 
@@ -2370,9 +2372,16 @@ only screen and (max-width: 734px) and (min-resolution: 144dpi) {
     transition-delay: .1s;
     -webkit-animation-duration: 60s;
     animation-duration: 60s;
+    /* speed 2 */
     -webkit-animation-delay: -30s;
     animation-delay: -30s;
     animation-direction: reverse
+}
+
+@media only screen and (max-width:734px) {
+    .marquee:nth-child(2) {
+          animation-duration: 75s;
+    }
 }
 
 .marquee:nth-child(3) {
@@ -2380,8 +2389,15 @@ only screen and (max-width: 734px) and (min-resolution: 144dpi) {
     transition-delay: .2s;
     -webkit-animation-duration: 67s;
     animation-duration: 67s;
+    /* speed 3 */
     -webkit-animation-delay: -22.33333s;
     animation-delay: -22.33333s
+}
+
+@media only screen and (max-width:734px) {
+.marquee:nth-child(3) {
+        animation-duration: 83.75s;
+    }
 }
 
 html.no-js .marquee {
