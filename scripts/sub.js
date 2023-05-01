@@ -17,9 +17,9 @@
 document.querySelectorAll('.downloadLink').forEach((button) => {
     const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
     if (isIOS) {
-        button.href = 'https://news.bullets.app/APWq/siteios';
+        button.href = 'https://onelink.to/newsreels.app';
     } else {
-        button.href = 'https://news.bullets.app/nOFn/siteand';
+        button.href = 'https://onelink.to/newsreels.app';
     }
 })
 
