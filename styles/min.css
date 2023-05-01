@@ -2174,14 +2174,6 @@ only screen and (min-resolution: 1.5dppx),
     }
 }
 
-@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
-only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
-only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
-    html.no-reduced-motion .image-hero-screen-latimes {
-        background-image: url("/images/logos/1.png")
-    }
-}
-
 @media only screen and (max-width: 734px) {
     html.no-reduced-motion .image-hero-screen-latimes {
         width: 186px;
@@ -2467,70 +2459,14 @@ button.bvBoQ.OVArd[data-focus-method]+div.ilEyH {
 }
 
 .image-hero-logo-adweek {
-    width: 80px;
+    width: 181px;
     height: 47px;
-    background-size: 80px 47px;
+    background-size: 181px 47px;
     background-repeat: no-repeat;
     background-image: url(/images/logos/1.png);
-    min-width: 80px
+    min-width: 181px
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio:1.5),
-only screen and (min-resolution:1.5dppx),
-(-webkit-min-device-pixel-ratio:1.5),
-(min-resolution:144dpi) {
-    .image-hero-logo-adweek {
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-adweek {
-        width: 65px;
-        height: 38px;
-        background-size: 65px 38px;
-        background-repeat: no-repeat;
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
-only screen and (max-width:1068px) and (min-resolution:1.5dppx),
-only screen and (max-width:1068px) and (min-resolution:144dpi) {
-    .image-hero-logo-adweek {
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-adweek {
-        width: 47px;
-        height: 28px;
-        background-size: 47px 28px;
-        background-repeat: no-repeat;
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5),
-only screen and (max-width:734px) and (min-resolution:1.5dppx),
-only screen and (max-width:734px) and (min-resolution:144dpi) {
-    .image-hero-logo-adweek {
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-adweek {
-        min-width: 65px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-adweek {
-        min-width: 47px
-    }
-}
 
 .image-hero-logo-allure {
     width: 73px;
@@ -2583,18 +2519,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-allure {
         background-image: url(/images/logos/2.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-allure {
-        min-width: 54px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-allure {
-        min-width: 40px
     }
 }
 
@@ -2652,18 +2576,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-atlantic {
-        min-width: 25px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-atlantic {
-        min-width: 19px
-    }
-}
-
 .image-hero-logo-bazaar {
     width: 88px;
     height: 47px;
@@ -2715,18 +2627,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-bazaar {
         background-image: url(/images/logos/4.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-bazaar {
-        min-width: 71px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-bazaar {
-        min-width: 52px
     }
 }
 
@@ -2784,17 +2684,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-bhag {
-        min-width: 83px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-bhag {
-        min-width: 60px
-    }
-}
 
 .image-hero-logo-bloomberg {
     width: 106px;
@@ -2847,18 +2736,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-bloomberg {
         background-image: url(/images/logos/6.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-bloomberg {
-        min-width: 85px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-bloomberg {
-        min-width: 62px
     }
 }
 
@@ -2916,18 +2793,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-caranddriver {
-        min-width: 93px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-caranddriver {
-        min-width: 67px
-    }
-}
-
 .image-hero-logo-charlotteobserver {
     width: 167px;
     height: 47px;
@@ -2979,18 +2844,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-charlotteobserver {
         background-image: url(/images/logos/8.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-charlotteobserver {
-        min-width: 134px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-charlotteobserver {
-        min-width: 94px
     }
 }
 
@@ -3048,18 +2901,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-cookscountry {
-        min-width: 74px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-cookscountry {
-        min-width: 53px
-    }
-}
-
 .image-hero-logo-cosmopolitan {
     width: 103px;
     height: 47px;
@@ -3093,12 +2934,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-cosmopolitan {
         background-image: url(/images/logos/10.png)
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-cosmopolitan {
-        min-width: 60px
     }
 }
 
@@ -3156,17 +2991,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-cut {
-        min-width: 74px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-cut {
-        min-width: 54px
-    }
-}
 
 .image-hero-logo-dwell {
     width: 67px;
@@ -3219,18 +3043,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-dwell {
         background-image: url(/images/logos/12.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-dwell {
-        min-width: 54px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-dwell {
-        min-width: 39px
     }
 }
 
@@ -3288,17 +3100,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-elle {
-        min-width: 59px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-elle {
-        min-width: 43px
-    }
-}
 
 .image-hero-logo-entertainmentweekly {
     width: 114px;
@@ -3351,18 +3152,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-entertainmentweekly {
         background-image: url(/images/logos/14.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-entertainmentweekly {
-        min-width: 91px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-entertainmentweekly {
-        min-width: 66px
     }
 }
 
@@ -3420,17 +3209,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-esquire {
-        min-width: 97px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-esquire {
-        min-width: 70px
-    }
-}
 
 .image-hero-logo-foodandwine {
     width: 123px;
@@ -3483,18 +3261,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-foodandwine {
         background-image: url(/images/logos/16.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-foodandwine {
-        min-width: 100px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-foodandwine {
-        min-width: 72px
     }
 }
 
@@ -3552,18 +3318,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-forbes {
-        min-width: 69px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-forbes {
-        min-width: 50px
-    }
-}
-
 .image-hero-logo-golf {
     width: 75px;
     height: 47px;
@@ -3615,18 +3369,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-golf {
         background-image: url(/images/logos/18.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-golf {
-        min-width: 61px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-golf {
-        min-width: 44px
     }
 }
 
@@ -3684,18 +3426,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-goodhousekeeping {
-        min-width: 95px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-goodhousekeeping {
-        min-width: 69px
-    }
-}
-
 .image-hero-logo-gq {
     width: 50px;
     height: 47px;
@@ -3747,18 +3477,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-gq {
         background-image: url(/images/logos/20.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-gq {
-        min-width: 38px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-gq {
-        min-width: 29px
     }
 }
 
@@ -3816,18 +3534,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-health {
-        min-width: 50px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-health {
-        min-width: 37px
-    }
-}
-
 .image-hero-logo-hollywoodreporter {
     width: 87px;
     height: 47px;
@@ -3882,17 +3588,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-hollywoodreporter {
-        min-width: 71px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-hollywoodreporter {
-        min-width: 52px
-    }
-}
 
 .image-hero-logo-housebeautiful {
     width: 108px;
@@ -3948,17 +3643,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-housebeautiful {
-        min-width: 86px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-housebeautiful {
-        min-width: 63px
-    }
-}
 
 .image-hero-logo-houstonchronicle {
     width: 152px;
@@ -4011,18 +3695,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-houstonchronicle {
         background-image: url(/images/logos/24.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-houstonchronicle {
-        min-width: 122px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-houstonchronicle {
-        min-width: 89px
     }
 }
 
@@ -4080,18 +3752,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-idahostatesman {
-        min-width: 107px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-idahostatesman {
-        min-width: 78px
-    }
-}
-
 .image-hero-logo-insider {
     width: 100px;
     height: 47px;
@@ -4146,17 +3806,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-insider {
-        min-width: 76px
-    }
-}
 
-@media only screen and (max-width:734px) {
-    .image-hero-logo-insider {
-        min-width: 56px
-    }
-}
 
 .image-hero-logo-instyle {
     width: 78px;
@@ -4212,17 +3862,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-instyle {
-        min-width: 62px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-instyle {
-        min-width: 46px
-    }
-}
 
 .image-hero-logo-kansascitystar {
     width: 186px;
@@ -4233,62 +3872,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     min-width: 186px
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio:1.5),
-only screen and (min-resolution:1.5dppx),
-(-webkit-min-device-pixel-ratio:1.5),
-(min-resolution:144dpi) {
-    .image-hero-logo-kansascitystar {
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-kansascitystar {
-        width: 143px;
-        height: 38px;
-        background-size: 143px 38px;
-        background-repeat: no-repeat;
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
-only screen and (max-width:1068px) and (min-resolution:1.5dppx),
-only screen and (max-width:1068px) and (min-resolution:144dpi) {
-    .image-hero-logo-kansascitystar {
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-kansascitystar {
-        width: 105px;
-        height: 28px;
-        background-size: 105px 28px;
-        background-repeat: no-repeat;
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5),
-only screen and (max-width:734px) and (min-resolution:1.5dppx),
-only screen and (max-width:734px) and (min-resolution:144dpi) {
-    .image-hero-logo-kansascitystar {
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-kansascitystar {
-        min-width: 143px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-kansascitystar {
-        min-width: 105px
-    }
-}
 
 .image-hero-logo-latimes {
     width: 149px;
@@ -4341,18 +3924,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-latimes {
         background-image: url(/images/logos/2.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-latimes {
-        min-width: 120px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-latimes {
-        min-width: 91px
     }
 }
 
@@ -4410,18 +3981,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-menshealth {
-        min-width: 74px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-menshealth {
-        min-width: 54px
-    }
-}
-
 .image-hero-logo-miamiherald {
     width: 111px;
     height: 47px;
@@ -4473,18 +4032,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-miamiherald {
         background-image: url(/images/logos/4.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-miamiherald {
-        min-width: 90px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-miamiherald {
-        min-width: 66px
     }
 }
 
@@ -4542,17 +4089,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-motherjones {
-        min-width: 47px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-motherjones {
-        min-width: 35px
-    }
-}
 
 .image-hero-logo-nationalgeographic {
     width: 97px;
@@ -4608,17 +4144,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-nationalgeographic {
-        min-width: 76px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-nationalgeographic {
-        min-width: 53px
-    }
-}
 
 .image-hero-logo-nationalreview {
     width: 136px;
@@ -4671,18 +4196,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-nationalreview {
         background-image: url(/images/logos/25.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-nationalreview {
-        min-width: 110px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-nationalreview {
-        min-width: 79px
     }
 }
 
@@ -4740,17 +4253,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-newrepublic {
-        min-width: 92px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-newrepublic {
-        min-width: 67px
-    }
-}
 
 .image-hero-logo-newsandobserver {
     width: 133px;
@@ -4803,18 +4305,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-newsandobserver {
         background-image: url(/images/logos/23.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-newsandobserver {
-        min-width: 107px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-newsandobserver {
-        min-width: 78px
     }
 }
 
@@ -4872,17 +4362,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-newsweek {
-        min-width: 76px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-newsweek {
-        min-width: 55px
-    }
-}
 
 .image-hero-logo-newyork {
     width: 129px;
@@ -4935,18 +4414,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-newyork {
         background-image: url(/images/logos/21.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-newyork {
-        min-width: 86px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-newyork {
-        min-width: 75px
     }
 }
 
@@ -5004,18 +4471,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-newyorker {
-        min-width: 106px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-newyorker {
-        min-width: 79px
-    }
-}
-
 .image-hero-logo-oprahdaily {
     width: 104px;
     height: 47px;
@@ -5067,18 +4522,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-oprahdaily {
         background-image: url(/images/logos/19.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-oprahdaily {
-        min-width: 79px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-oprahdaily {
-        min-width: 58px
     }
 }
 
@@ -5136,17 +4579,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-people {
-        min-width: 69px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-people {
-        min-width: 50px
-    }
-}
 
 .image-hero-logo-popularmechanics {
     width: 103px;
@@ -5199,18 +4631,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-popularmechanics {
         background-image: url(/images/logos/17.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-popularmechanics {
-        min-width: 82px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-popularmechanics {
-        min-width: 60px
     }
 }
 
@@ -5268,18 +4688,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-realsimple {
-        min-width: 86px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-realsimple {
-        min-width: 63px
-    }
-}
-
 .image-hero-logo-rollingstone {
     width: 135px;
     height: 47px;
@@ -5331,18 +4739,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-rollingstone {
         background-image: url(/images/logos/15.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-rollingstone {
-        min-width: 108px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-rollingstone {
-        min-width: 78px
     }
 }
 
@@ -5400,17 +4796,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-saexpress {
-        min-width: 149px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-saexpress {
-        min-width: 106px
-    }
-}
 
 .image-hero-logo-sacramentobee {
     width: 190px;
@@ -5466,17 +4851,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-sacramentobee {
-        min-width: 147px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-sacramentobee {
-        min-width: 107px
-    }
-}
 
 .image-hero-logo-sfchronicle {
     width: 178px;
@@ -5529,18 +4903,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-sfchronicle {
         background-image: url(/images/logos/13.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-sfchronicle {
-        min-width: 143px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-sfchronicle {
-        min-width: 104px
     }
 }
 
@@ -5598,17 +4960,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-shape {
-        min-width: 48px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-shape {
-        min-width: 35px
-    }
-}
 
 .image-hero-logo-sportsIllustrated {
     width: 161px;
@@ -5643,12 +4994,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-sportsIllustrated {
         background-image: url(/images/logos/10.png)
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-sportsIllustrated {
-        min-width: 93px
     }
 }
 
@@ -5706,18 +5051,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-thestate {
-        min-width: 72px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-thestate {
-        min-width: 54px
-    }
-}
-
 .image-hero-logo-time {
     width: 69px;
     height: 47px;
@@ -5769,18 +5102,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-time {
         background-image: url(/images/logos/10.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-time {
-        min-width: 56px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-time {
-        min-width: 41px
     }
 }
 
@@ -5838,17 +5159,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-todaysparent {
-        min-width: 68px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-todaysparent {
-        min-width: 50px
-    }
-}
 
 .image-hero-logo-townandcountry {
     width: 134px;
@@ -5901,18 +5211,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-townandcountry {
         background-image: url(/images/logos/8.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-townandcountry {
-        min-width: 108px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-townandcountry {
-        min-width: 78px
     }
 }
 
@@ -5970,18 +5268,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-travelleisure {
-        min-width: 58px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-travelleisure {
-        min-width: 43px
-    }
-}
-
 .image-hero-logo-vanityfair {
     width: 99px;
     height: 47px;
@@ -6033,18 +5319,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-vanityfair {
         background-image: url(/images/logos/6.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-vanityfair {
-        min-width: 75px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-vanityfair {
-        min-width: 55px
     }
 }
 
@@ -6102,18 +5376,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-vogue {
-        min-width: 67px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-vogue {
-        min-width: 50px
-    }
-}
-
 .image-hero-logo-vox {
     width: 45px;
     height: 47px;
@@ -6165,18 +5427,6 @@ only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-vox {
         background-image: url(/images/logos/4.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-vox {
-        min-width: 37px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-vox {
-        min-width: 27px
     }
 }
 
@@ -6234,17 +5484,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-wired {
-        min-width: 83px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-wired {
-        min-width: 61px
-    }
-}
 
 .image-hero-logo-womenshealth {
     width: 137px;
@@ -6300,17 +5539,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     }
 }
 
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-womenshealth {
-        min-width: 110px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-womenshealth {
-        min-width: 79px
-    }
-}
 
 .image-hero-logo-wsj {
     width: 181px;
@@ -6321,62 +5549,6 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     min-width: 181px
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio:1.5),
-only screen and (min-resolution:1.5dppx),
-(-webkit-min-device-pixel-ratio:1.5),
-(min-resolution:144dpi) {
-    .image-hero-logo-wsj {
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-wsj {
-        width: 144px;
-        height: 38px;
-        background-size: 144px 38px;
-        background-repeat: no-repeat;
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
-only screen and (max-width:1068px) and (min-resolution:1.5dppx),
-only screen and (max-width:1068px) and (min-resolution:144dpi) {
-    .image-hero-logo-wsj {
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-wsj {
-        width: 103px;
-        height: 28px;
-        background-size: 103px 28px;
-        background-repeat: no-repeat;
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5),
-only screen and (max-width:734px) and (min-resolution:1.5dppx),
-only screen and (max-width:734px) and (min-resolution:144dpi) {
-    .image-hero-logo-wsj {
-        background-image: url(/images/logos/1.png)
-    }
-}
-
-@media only screen and (max-width:1068px) {
-    .image-hero-logo-wsj {
-        min-width: 144px
-    }
-}
-
-@media only screen and (max-width:734px) {
-    .image-hero-logo-wsj {
-        min-width: 103px
-    }
-}
 
 .marquee-logo {
     margin: 0 35px;
@@ -6386,6 +5558,14 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     background-size: contain !important;
     background-repeat: no-repeat;
     background-position: center !important;
+
+    background-repeat: no-repeat;
+    background-position: center !important;
+    width: 170px;
+    height: 47px;
+    background-size: 170px 47px;
+    background-repeat: no-repeat;
+    min-width: 170px;
 }
 
 @-webkit-keyframes iphone-privacy-animation-large {
