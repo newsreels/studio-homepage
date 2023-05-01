@@ -1230,7 +1230,7 @@ br.medium {
     height: 80px;
     background-size: 80px 80px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/6.png)
+    background-image: url(/images/logos/6.webp)
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:1.5),
@@ -1238,7 +1238,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-icon-news-plus {
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -1248,7 +1248,7 @@ only screen and (min-resolution:1.5dppx),
         height: 55px;
         background-size: 55px 55px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -1256,7 +1256,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-icon-news-plus {
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -1266,7 +1266,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 60px;
         background-size: 60px 60px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -1274,7 +1274,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-icon-news-plus {
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -2463,7 +2463,7 @@ button.bvBoQ.OVArd[data-focus-method]+div.ilEyH {
     height: 47px;
     background-size: 181px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/1.png);
+    background-image: url(/images/logos/1.webp);
     min-width: 181px
 }
 
@@ -2473,7 +2473,7 @@ button.bvBoQ.OVArd[data-focus-method]+div.ilEyH {
     height: 47px;
     background-size: 73px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/2.png);
+    background-image: url(/images/logos/2.webp);
     min-width: 73px
 }
 
@@ -2482,7 +2482,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-allure {
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -2492,7 +2492,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 54px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -2500,7 +2500,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-allure {
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -2510,7 +2510,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 40px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -2518,7 +2518,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-allure {
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -2527,7 +2527,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 30px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/3.png);
+    background-image: url(/images/logos/3.webp);
     min-width: 30px
 }
 
@@ -2536,7 +2536,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-atlantic {
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -2546,7 +2546,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 25px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -2554,7 +2554,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-atlantic {
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -2564,7 +2564,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 19px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -2572,7 +2572,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-atlantic {
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -2581,7 +2581,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 88px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/4.png);
+    background-image: url(/images/logos/4.webp);
     min-width: 88px
 }
 
@@ -2590,7 +2590,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-bazaar {
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -2600,7 +2600,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 71px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -2608,7 +2608,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-bazaar {
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -2618,7 +2618,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 52px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -2626,7 +2626,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-bazaar {
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -2635,7 +2635,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 103px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/5.png);
+    background-image: url(/images/logos/5.webp);
     min-width: 103px
 }
 
@@ -2644,7 +2644,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-bhag {
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -2654,7 +2654,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 83px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -2662,7 +2662,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-bhag {
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -2672,7 +2672,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 60px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -2680,7 +2680,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-bhag {
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -2690,7 +2690,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 106px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/6.png);
+    background-image: url(/images/logos/6.webp);
     min-width: 106px
 }
 
@@ -2699,7 +2699,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-bloomberg {
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -2709,7 +2709,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 85px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -2717,7 +2717,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-bloomberg {
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -2727,7 +2727,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 62px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -2735,7 +2735,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-bloomberg {
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -2744,7 +2744,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 116px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/7.png);
+    background-image: url(/images/logos/7.webp);
     min-width: 116px
 }
 
@@ -2753,7 +2753,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-caranddriver {
-        background-image: url(/images/logos/7.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -2763,7 +2763,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 93px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/7.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -2771,7 +2771,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-caranddriver {
-        background-image: url(/images/logos/7.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -2781,7 +2781,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 67px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/7.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -2789,7 +2789,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-caranddriver {
-        background-image: url(/images/logos/7.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -2798,7 +2798,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 167px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/8.png);
+    background-image: url(/images/logos/8.webp);
     min-width: 167px
 }
 
@@ -2807,7 +2807,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-charlotteobserver {
-        background-image: url(/images/logos/8.png)
+        background-image: url(/images/logos/8.webp)
     }
 }
 
@@ -2817,7 +2817,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 134px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/8.png)
+        background-image: url(/images/logos/8.webp)
     }
 }
 
@@ -2825,7 +2825,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-charlotteobserver {
-        background-image: url(/images/logos/8.png)
+        background-image: url(/images/logos/8.webp)
     }
 }
 
@@ -2835,7 +2835,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 94px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/8.png)
+        background-image: url(/images/logos/8.webp)
     }
 }
 
@@ -2843,7 +2843,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-charlotteobserver {
-        background-image: url(/images/logos/8.png)
+        background-image: url(/images/logos/8.webp)
     }
 }
 
@@ -2852,7 +2852,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 91px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/9.png);
+    background-image: url(/images/logos/7.webp);
     min-width: 91px
 }
 
@@ -2861,7 +2861,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-cookscountry {
-        background-image: url(/images/logos/9.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -2871,7 +2871,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 74px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/9.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -2879,7 +2879,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-cookscountry {
-        background-image: url(/images/logos/9.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -2889,7 +2889,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 53px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/9.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -2897,7 +2897,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-cookscountry {
-        background-image: url(/images/logos/9.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -2906,7 +2906,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 103px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/10.png);
+    background-image: url(/images/logos/10.webp);
     min-width: 103px
 }
 
@@ -2915,7 +2915,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-cosmopolitan {
-        background-image: url(/images/logos/10.png)
+        background-image: url(/images/logos/10.webp)
     }
 }
 
@@ -2925,7 +2925,7 @@ only screen and (min-resolution:1.5dppx),
         height: 28px;
         background-size: 60px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/10.png)
+        background-image: url(/images/logos/10.webp)
     }
 }
 
@@ -2933,7 +2933,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-cosmopolitan {
-        background-image: url(/images/logos/10.png)
+        background-image: url(/images/logos/10.webp)
     }
 }
 
@@ -2942,7 +2942,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 93px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/11.png);
+    background-image: url(/images/logos/11.webp);
     min-width: 93px
 }
 
@@ -2951,7 +2951,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-cut {
-        background-image: url(/images/logos/11.png)
+        background-image: url(/images/logos/11.webp)
     }
 }
 
@@ -2961,7 +2961,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 74px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/11.png)
+        background-image: url(/images/logos/11.webp)
     }
 }
 
@@ -2969,7 +2969,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-cut {
-        background-image: url(/images/logos/11.png)
+        background-image: url(/images/logos/11.webp)
     }
 }
 
@@ -2979,7 +2979,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 54px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/11.png)
+        background-image: url(/images/logos/11.webp)
     }
 }
 
@@ -2987,7 +2987,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-cut {
-        background-image: url(/images/logos/11.png)
+        background-image: url(/images/logos/11.webp)
     }
 }
 
@@ -2997,7 +2997,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 67px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/12.png);
+    background-image: url(/images/logos/12.webp);
     min-width: 67px
 }
 
@@ -3006,7 +3006,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-dwell {
-        background-image: url(/images/logos/12.png)
+        background-image: url(/images/logos/12.webp)
     }
 }
 
@@ -3016,7 +3016,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 54px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/12.png)
+        background-image: url(/images/logos/12.webp)
     }
 }
 
@@ -3024,7 +3024,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-dwell {
-        background-image: url(/images/logos/12.png)
+        background-image: url(/images/logos/12.webp)
     }
 }
 
@@ -3034,7 +3034,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 39px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/12.png)
+        background-image: url(/images/logos/12.webp)
     }
 }
 
@@ -3042,7 +3042,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-dwell {
-        background-image: url(/images/logos/12.png)
+        background-image: url(/images/logos/12.webp)
     }
 }
 
@@ -3051,7 +3051,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 73px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/13.png);
+    background-image: url(/images/logos/13.webp);
     min-width: 73px
 }
 
@@ -3060,7 +3060,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-elle {
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -3070,7 +3070,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 59px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -3078,7 +3078,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-elle {
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -3088,7 +3088,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 43px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -3096,7 +3096,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-elle {
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -3106,7 +3106,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 114px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/14.png);
+    background-image: url(/images/logos/14.webp);
     min-width: 114px
 }
 
@@ -3115,7 +3115,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-entertainmentweekly {
-        background-image: url(/images/logos/14.png)
+        background-image: url(/images/logos/14.webp)
     }
 }
 
@@ -3125,7 +3125,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 91px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/14.png)
+        background-image: url(/images/logos/14.webp)
     }
 }
 
@@ -3133,7 +3133,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-entertainmentweekly {
-        background-image: url(/images/logos/14.png)
+        background-image: url(/images/logos/14.webp)
     }
 }
 
@@ -3143,7 +3143,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 66px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/14.png)
+        background-image: url(/images/logos/14.webp)
     }
 }
 
@@ -3151,7 +3151,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-entertainmentweekly {
-        background-image: url(/images/logos/14.png)
+        background-image: url(/images/logos/14.webp)
     }
 }
 
@@ -3160,7 +3160,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 125px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/15.png);
+    background-image: url(/images/logos/15.webp);
     min-width: 125px
 }
 
@@ -3169,7 +3169,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-esquire {
-        background-image: url(/images/logos/15.png)
+        background-image: url(/images/logos/15.webp)
     }
 }
 
@@ -3179,7 +3179,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 97px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/15.png)
+        background-image: url(/images/logos/15.webp)
     }
 }
 
@@ -3187,7 +3187,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-esquire {
-        background-image: url(/images/logos/15.png)
+        background-image: url(/images/logos/15.webp)
     }
 }
 
@@ -3197,7 +3197,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 70px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/15.png)
+        background-image: url(/images/logos/15.webp)
     }
 }
 
@@ -3205,7 +3205,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-esquire {
-        background-image: url(/images/logos/15.png)
+        background-image: url(/images/logos/15.webp)
     }
 }
 
@@ -3215,7 +3215,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 123px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/16.png);
+    background-image: url(/images/logos/16.webp);
     min-width: 123px
 }
 
@@ -3224,7 +3224,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-foodandwine {
-        background-image: url(/images/logos/16.png)
+        background-image: url(/images/logos/16.webp)
     }
 }
 
@@ -3234,7 +3234,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 100px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/16.png)
+        background-image: url(/images/logos/16.webp)
     }
 }
 
@@ -3242,7 +3242,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-foodandwine {
-        background-image: url(/images/logos/16.png)
+        background-image: url(/images/logos/16.webp)
     }
 }
 
@@ -3252,7 +3252,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 72px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/16.png)
+        background-image: url(/images/logos/16.webp)
     }
 }
 
@@ -3260,7 +3260,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-foodandwine {
-        background-image: url(/images/logos/16.png)
+        background-image: url(/images/logos/16.webp)
     }
 }
 
@@ -3269,7 +3269,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 85px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/17.png);
+    background-image: url(/images/logos/17.webp);
     min-width: 85px
 }
 
@@ -3278,7 +3278,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-forbes {
-        background-image: url(/images/logos/17.png)
+        background-image: url(/images/logos/17.webp)
     }
 }
 
@@ -3288,7 +3288,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 69px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/17.png)
+        background-image: url(/images/logos/17.webp)
     }
 }
 
@@ -3296,7 +3296,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-forbes {
-        background-image: url(/images/logos/17.png)
+        background-image: url(/images/logos/17.webp)
     }
 }
 
@@ -3306,7 +3306,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 50px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/17.png)
+        background-image: url(/images/logos/17.webp)
     }
 }
 
@@ -3314,7 +3314,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-forbes {
-        background-image: url(/images/logos/17.png)
+        background-image: url(/images/logos/17.webp)
     }
 }
 
@@ -3323,7 +3323,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 75px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/18.png);
+    background-image: url(/images/logos/18.webp);
     min-width: 75px
 }
 
@@ -3332,7 +3332,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-golf {
-        background-image: url(/images/logos/18.png)
+        background-image: url(/images/logos/18.webp)
     }
 }
 
@@ -3342,7 +3342,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 61px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/18.png)
+        background-image: url(/images/logos/18.webp)
     }
 }
 
@@ -3350,7 +3350,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-golf {
-        background-image: url(/images/logos/18.png)
+        background-image: url(/images/logos/18.webp)
     }
 }
 
@@ -3360,7 +3360,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 44px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/18.png)
+        background-image: url(/images/logos/18.webp)
     }
 }
 
@@ -3368,7 +3368,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-golf {
-        background-image: url(/images/logos/18.png)
+        background-image: url(/images/logos/18.webp)
     }
 }
 
@@ -3377,7 +3377,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 118px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/19.png);
+    background-image: url(/images/logos/19.webp);
     min-width: 118px
 }
 
@@ -3386,7 +3386,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-goodhousekeeping {
-        background-image: url(/images/logos/19.png)
+        background-image: url(/images/logos/19.webp)
     }
 }
 
@@ -3396,7 +3396,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 95px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/19.png)
+        background-image: url(/images/logos/19.webp)
     }
 }
 
@@ -3404,7 +3404,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-goodhousekeeping {
-        background-image: url(/images/logos/19.png)
+        background-image: url(/images/logos/19.webp)
     }
 }
 
@@ -3414,7 +3414,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 69px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/19.png)
+        background-image: url(/images/logos/19.webp)
     }
 }
 
@@ -3422,7 +3422,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-goodhousekeeping {
-        background-image: url(/images/logos/19.png)
+        background-image: url(/images/logos/19.webp)
     }
 }
 
@@ -3431,7 +3431,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 50px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/20.png);
+    background-image: url(/images/logos/20.webp);
     min-width: 50px
 }
 
@@ -3440,7 +3440,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-gq {
-        background-image: url(/images/logos/20.png)
+        background-image: url(/images/logos/20.webp)
     }
 }
 
@@ -3450,7 +3450,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/20.png)
+        background-image: url(/images/logos/20.webp)
     }
 }
 
@@ -3458,7 +3458,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-gq {
-        background-image: url(/images/logos/20.png)
+        background-image: url(/images/logos/20.webp)
     }
 }
 
@@ -3468,7 +3468,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 29px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/20.png)
+        background-image: url(/images/logos/20.webp)
     }
 }
 
@@ -3476,7 +3476,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-gq {
-        background-image: url(/images/logos/20.png)
+        background-image: url(/images/logos/20.webp)
     }
 }
 
@@ -3485,7 +3485,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 62px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/21.png);
+    background-image: url(/images/logos/21.webp);
     min-width: 62px
 }
 
@@ -3494,7 +3494,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-health {
-        background-image: url(/images/logos/21.png)
+        background-image: url(/images/logos/21.webp)
     }
 }
 
@@ -3504,7 +3504,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 50px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/21.png)
+        background-image: url(/images/logos/21.webp)
     }
 }
 
@@ -3512,7 +3512,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-health {
-        background-image: url(/images/logos/21.png)
+        background-image: url(/images/logos/21.webp)
     }
 }
 
@@ -3522,7 +3522,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 37px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/21.png)
+        background-image: url(/images/logos/21.webp)
     }
 }
 
@@ -3530,7 +3530,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-health {
-        background-image: url(/images/logos/21.png)
+        background-image: url(/images/logos/21.webp)
     }
 }
 
@@ -3539,7 +3539,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 87px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/22.png);
+    background-image: url(/images/logos/22.webp);
     min-width: 87px
 }
 
@@ -3548,7 +3548,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-hollywoodreporter {
-        background-image: url(/images/logos/22.png)
+        background-image: url(/images/logos/22.webp)
     }
 }
 
@@ -3558,7 +3558,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 71px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/22.png)
+        background-image: url(/images/logos/22.webp)
     }
 }
 
@@ -3566,7 +3566,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-hollywoodreporter {
-        background-image: url(/images/logos/22.png)
+        background-image: url(/images/logos/22.webp)
     }
 }
 
@@ -3576,7 +3576,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 52px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/22.png)
+        background-image: url(/images/logos/22.webp)
     }
 }
 
@@ -3584,7 +3584,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-hollywoodreporter {
-        background-image: url(/images/logos/22.png)
+        background-image: url(/images/logos/22.webp)
     }
 }
 
@@ -3594,7 +3594,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 108px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/23.png);
+    background-image: url(/images/logos/23.webp);
     min-width: 108px
 }
 
@@ -3603,7 +3603,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-housebeautiful {
-        background-image: url(/images/logos/23.png)
+        background-image: url(/images/logos/23.webp)
     }
 }
 
@@ -3613,7 +3613,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 86px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/23.png)
+        background-image: url(/images/logos/23.webp)
     }
 }
 
@@ -3621,7 +3621,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-housebeautiful {
-        background-image: url(/images/logos/23.png)
+        background-image: url(/images/logos/23.webp)
     }
 }
 
@@ -3631,7 +3631,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 63px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/23.png)
+        background-image: url(/images/logos/23.webp)
     }
 }
 
@@ -3639,7 +3639,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-housebeautiful {
-        background-image: url(/images/logos/23.png)
+        background-image: url(/images/logos/23.webp)
     }
 }
 
@@ -3649,7 +3649,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 152px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/24.png);
+    background-image: url(/images/logos/24.webp);
     min-width: 152px
 }
 
@@ -3658,7 +3658,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-houstonchronicle {
-        background-image: url(/images/logos/24.png)
+        background-image: url(/images/logos/24.webp)
     }
 }
 
@@ -3668,7 +3668,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 122px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/24.png)
+        background-image: url(/images/logos/24.webp)
     }
 }
 
@@ -3676,7 +3676,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-houstonchronicle {
-        background-image: url(/images/logos/24.png)
+        background-image: url(/images/logos/24.webp)
     }
 }
 
@@ -3686,7 +3686,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 89px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/24.png)
+        background-image: url(/images/logos/24.webp)
     }
 }
 
@@ -3694,7 +3694,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-houstonchronicle {
-        background-image: url(/images/logos/24.png)
+        background-image: url(/images/logos/24.webp)
     }
 }
 
@@ -3703,7 +3703,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 134px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/25.png);
+    background-image: url(/images/logos/25.webp);
     min-width: 134px
 }
 
@@ -3712,7 +3712,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-idahostatesman {
-        background-image: url(/images/logos/25.png)
+        background-image: url(/images/logos/25.webp)
     }
 }
 
@@ -3722,7 +3722,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 107px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/25.png)
+        background-image: url(/images/logos/25.webp)
     }
 }
 
@@ -3730,7 +3730,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-idahostatesman {
-        background-image: url(/images/logos/25.png)
+        background-image: url(/images/logos/25.webp)
     }
 }
 
@@ -3740,7 +3740,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 78px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/25.png)
+        background-image: url(/images/logos/25.webp)
     }
 }
 
@@ -3748,7 +3748,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-idahostatesman {
-        background-image: url(/images/logos/25.png)
+        background-image: url(/images/logos/25.webp)
     }
 }
 
@@ -3757,7 +3757,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 100px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/26.png);
+    background-image: url(/images/logos/26.webp);
     min-width: 100px
 }
 
@@ -3766,7 +3766,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-insider {
-        background-image: url(/images/logos/26.png)
+        background-image: url(/images/logos/26.webp)
     }
 }
 
@@ -3776,7 +3776,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 76px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/26.png)
+        background-image: url(/images/logos/26.webp)
     }
 }
 
@@ -3784,7 +3784,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-insider {
-        background-image: url(/images/logos/26.png)
+        background-image: url(/images/logos/26.webp)
     }
 }
 
@@ -3794,7 +3794,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 56px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/26.png)
+        background-image: url(/images/logos/26.webp)
     }
 }
 
@@ -3802,7 +3802,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-insider {
-        background-image: url(/images/logos/26.png)
+        background-image: url(/images/logos/26.webp)
     }
 }
 
@@ -3813,7 +3813,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 78px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/27.png);
+    background-image: url(/images/logos/27.webp);
     min-width: 78px
 }
 
@@ -3822,7 +3822,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-instyle {
-        background-image: url(/images/logos/27.png)
+        background-image: url(/images/logos/27.webp)
     }
 }
 
@@ -3832,7 +3832,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 62px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/27.png)
+        background-image: url(/images/logos/27.webp)
     }
 }
 
@@ -3840,7 +3840,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-instyle {
-        background-image: url(/images/logos/27.png)
+        background-image: url(/images/logos/27.webp)
     }
 }
 
@@ -3850,7 +3850,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 46px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/27.png)
+        background-image: url(/images/logos/27.webp)
     }
 }
 
@@ -3858,7 +3858,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-instyle {
-        background-image: url(/images/logos/27.png)
+        background-image: url(/images/logos/27.webp)
     }
 }
 
@@ -3868,7 +3868,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 186px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/1.png);
+    background-image: url(/images/logos/1.webp);
     min-width: 186px
 }
 
@@ -3878,7 +3878,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 149px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/2.png);
+    background-image: url(/images/logos/2.webp);
     min-width: 149px
 }
 
@@ -3887,7 +3887,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-latimes {
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -3897,7 +3897,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 120px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -3905,7 +3905,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-latimes {
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -3915,7 +3915,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 91px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -3923,7 +3923,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-latimes {
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -3932,7 +3932,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 92px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/3.png);
+    background-image: url(/images/logos/3.webp);
     min-width: 92px
 }
 
@@ -3941,7 +3941,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-menshealth {
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -3951,7 +3951,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 74px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -3959,7 +3959,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-menshealth {
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -3969,7 +3969,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 54px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -3977,7 +3977,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-menshealth {
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -3986,7 +3986,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 111px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/4.png);
+    background-image: url(/images/logos/4.webp);
     min-width: 111px
 }
 
@@ -3995,7 +3995,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-miamiherald {
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -4005,7 +4005,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 90px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -4013,7 +4013,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-miamiherald {
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -4023,7 +4023,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 66px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -4031,7 +4031,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-miamiherald {
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -4040,7 +4040,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 58px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/5.png);
+    background-image: url(/images/logos/5.webp);
     min-width: 58px
 }
 
@@ -4049,7 +4049,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-motherjones {
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -4059,7 +4059,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 47px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -4067,7 +4067,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-motherjones {
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -4077,7 +4077,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 35px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -4085,7 +4085,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-motherjones {
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -4095,7 +4095,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 97px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/26.png);
+    background-image: url(/images/logos/26.webp);
     min-width: 97px
 }
 
@@ -4104,7 +4104,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-nationalgeographic {
-        background-image: url(/images/logos/26.png)
+        background-image: url(/images/logos/26.webp)
     }
 }
 
@@ -4114,7 +4114,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 76px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/26.png)
+        background-image: url(/images/logos/26.webp)
     }
 }
 
@@ -4122,7 +4122,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-nationalgeographic {
-        background-image: url(/images/logos/26.png)
+        background-image: url(/images/logos/26.webp)
     }
 }
 
@@ -4132,7 +4132,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 53px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/26.png)
+        background-image: url(/images/logos/26.webp)
     }
 }
 
@@ -4140,7 +4140,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-nationalgeographic {
-        background-image: url(/images/logos/26.png)
+        background-image: url(/images/logos/26.webp)
     }
 }
 
@@ -4150,7 +4150,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 136px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/25.png);
+    background-image: url(/images/logos/25.webp);
     min-width: 136px
 }
 
@@ -4159,7 +4159,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-nationalreview {
-        background-image: url(/images/logos/25.png)
+        background-image: url(/images/logos/25.webp)
     }
 }
 
@@ -4169,7 +4169,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 110px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/25.png)
+        background-image: url(/images/logos/25.webp)
     }
 }
 
@@ -4177,7 +4177,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-nationalreview {
-        background-image: url(/images/logos/25.png)
+        background-image: url(/images/logos/25.webp)
     }
 }
 
@@ -4187,7 +4187,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 79px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/25.png)
+        background-image: url(/images/logos/25.webp)
     }
 }
 
@@ -4195,7 +4195,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-nationalreview {
-        background-image: url(/images/logos/25.png)
+        background-image: url(/images/logos/25.webp)
     }
 }
 
@@ -4204,7 +4204,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 114px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/24.png);
+    background-image: url(/images/logos/24.webp);
     min-width: 114px
 }
 
@@ -4213,7 +4213,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-newrepublic {
-        background-image: url(/images/logos/24.png)
+        background-image: url(/images/logos/24.webp)
     }
 }
 
@@ -4223,7 +4223,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 92px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/24.png)
+        background-image: url(/images/logos/24.webp)
     }
 }
 
@@ -4231,7 +4231,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-newrepublic {
-        background-image: url(/images/logos/24.png)
+        background-image: url(/images/logos/24.webp)
     }
 }
 
@@ -4241,7 +4241,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 67px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/24.png)
+        background-image: url(/images/logos/24.webp)
     }
 }
 
@@ -4249,7 +4249,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-newrepublic {
-        background-image: url(/images/logos/24.png)
+        background-image: url(/images/logos/24.webp)
     }
 }
 
@@ -4259,7 +4259,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 133px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/23.png);
+    background-image: url(/images/logos/23.webp);
     min-width: 133px
 }
 
@@ -4268,7 +4268,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-newsandobserver {
-        background-image: url(/images/logos/23.png)
+        background-image: url(/images/logos/23.webp)
     }
 }
 
@@ -4278,7 +4278,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 107px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/23.png)
+        background-image: url(/images/logos/23.webp)
     }
 }
 
@@ -4286,7 +4286,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-newsandobserver {
-        background-image: url(/images/logos/23.png)
+        background-image: url(/images/logos/23.webp)
     }
 }
 
@@ -4296,7 +4296,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 78px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/23.png)
+        background-image: url(/images/logos/23.webp)
     }
 }
 
@@ -4304,7 +4304,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-newsandobserver {
-        background-image: url(/images/logos/23.png)
+        background-image: url(/images/logos/23.webp)
     }
 }
 
@@ -4313,7 +4313,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 93px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/22.png);
+    background-image: url(/images/logos/22.webp);
     min-width: 93px
 }
 
@@ -4322,7 +4322,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-newsweek {
-        background-image: url(/images/logos/22.png)
+        background-image: url(/images/logos/22.webp)
     }
 }
 
@@ -4332,7 +4332,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 76px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/22.png)
+        background-image: url(/images/logos/22.webp)
     }
 }
 
@@ -4340,7 +4340,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-newsweek {
-        background-image: url(/images/logos/22.png)
+        background-image: url(/images/logos/22.webp)
     }
 }
 
@@ -4350,7 +4350,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 55px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/22.png)
+        background-image: url(/images/logos/22.webp)
     }
 }
 
@@ -4358,7 +4358,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-newsweek {
-        background-image: url(/images/logos/22.png)
+        background-image: url(/images/logos/22.webp)
     }
 }
 
@@ -4368,7 +4368,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 129px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/21.png);
+    background-image: url(/images/logos/21.webp);
     min-width: 129px
 }
 
@@ -4377,7 +4377,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-newyork {
-        background-image: url(/images/logos/21.png)
+        background-image: url(/images/logos/21.webp)
     }
 }
 
@@ -4387,7 +4387,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 86px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/21.png)
+        background-image: url(/images/logos/21.webp)
     }
 }
 
@@ -4395,7 +4395,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-newyork {
-        background-image: url(/images/logos/21.png)
+        background-image: url(/images/logos/21.webp)
     }
 }
 
@@ -4405,7 +4405,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 75px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/21.png)
+        background-image: url(/images/logos/21.webp)
     }
 }
 
@@ -4413,7 +4413,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-newyork {
-        background-image: url(/images/logos/21.png)
+        background-image: url(/images/logos/21.webp)
     }
 }
 
@@ -4422,7 +4422,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 142px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/20.png);
+    background-image: url(/images/logos/20.webp);
     min-width: 142px
 }
 
@@ -4431,7 +4431,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-newyorker {
-        background-image: url(/images/logos/20.png)
+        background-image: url(/images/logos/20.webp)
     }
 }
 
@@ -4441,7 +4441,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 106px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/20.png)
+        background-image: url(/images/logos/20.webp)
     }
 }
 
@@ -4449,7 +4449,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-newyorker {
-        background-image: url(/images/logos/20.png)
+        background-image: url(/images/logos/20.webp)
     }
 }
 
@@ -4459,7 +4459,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 79px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/20.png)
+        background-image: url(/images/logos/20.webp)
     }
 }
 
@@ -4467,7 +4467,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-newyorker {
-        background-image: url(/images/logos/20.png)
+        background-image: url(/images/logos/20.webp)
     }
 }
 
@@ -4476,7 +4476,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 104px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/19.png);
+    background-image: url(/images/logos/19.webp);
     min-width: 104px
 }
 
@@ -4485,7 +4485,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-oprahdaily {
-        background-image: url(/images/logos/19.png)
+        background-image: url(/images/logos/19.webp)
     }
 }
 
@@ -4495,7 +4495,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 79px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/19.png)
+        background-image: url(/images/logos/19.webp)
     }
 }
 
@@ -4503,7 +4503,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-oprahdaily {
-        background-image: url(/images/logos/19.png)
+        background-image: url(/images/logos/19.webp)
     }
 }
 
@@ -4513,7 +4513,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 58px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/19.png)
+        background-image: url(/images/logos/19.webp)
     }
 }
 
@@ -4521,7 +4521,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-oprahdaily {
-        background-image: url(/images/logos/19.png)
+        background-image: url(/images/logos/19.webp)
     }
 }
 
@@ -4530,7 +4530,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 81px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/18.png);
+    background-image: url(/images/logos/18.webp);
     min-width: 81px
 }
 
@@ -4539,7 +4539,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-people {
-        background-image: url(/images/logos/18.png)
+        background-image: url(/images/logos/18.webp)
     }
 }
 
@@ -4549,7 +4549,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 69px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/18.png)
+        background-image: url(/images/logos/18.webp)
     }
 }
 
@@ -4557,7 +4557,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-people {
-        background-image: url(/images/logos/18.png)
+        background-image: url(/images/logos/18.webp)
     }
 }
 
@@ -4567,7 +4567,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 50px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/18.png)
+        background-image: url(/images/logos/18.webp)
     }
 }
 
@@ -4575,7 +4575,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-people {
-        background-image: url(/images/logos/18.png)
+        background-image: url(/images/logos/18.webp)
     }
 }
 
@@ -4585,7 +4585,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 103px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/17.png);
+    background-image: url(/images/logos/17.webp);
     min-width: 103px
 }
 
@@ -4594,7 +4594,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-popularmechanics {
-        background-image: url(/images/logos/17.png)
+        background-image: url(/images/logos/17.webp)
     }
 }
 
@@ -4604,7 +4604,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 82px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/17.png)
+        background-image: url(/images/logos/17.webp)
     }
 }
 
@@ -4612,7 +4612,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-popularmechanics {
-        background-image: url(/images/logos/17.png)
+        background-image: url(/images/logos/17.webp)
     }
 }
 
@@ -4622,7 +4622,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 60px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/17.png)
+        background-image: url(/images/logos/17.webp)
     }
 }
 
@@ -4630,7 +4630,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-popularmechanics {
-        background-image: url(/images/logos/17.png)
+        background-image: url(/images/logos/17.webp)
     }
 }
 
@@ -4639,7 +4639,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 106px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/16.png);
+    background-image: url(/images/logos/16.webp);
     min-width: 106px
 }
 
@@ -4648,7 +4648,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-realsimple {
-        background-image: url(/images/logos/16.png)
+        background-image: url(/images/logos/16.webp)
     }
 }
 
@@ -4658,7 +4658,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 86px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/16.png)
+        background-image: url(/images/logos/16.webp)
     }
 }
 
@@ -4666,7 +4666,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-realsimple {
-        background-image: url(/images/logos/16.png)
+        background-image: url(/images/logos/16.webp)
     }
 }
 
@@ -4676,7 +4676,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 63px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/16.png)
+        background-image: url(/images/logos/16.webp)
     }
 }
 
@@ -4684,7 +4684,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-realsimple {
-        background-image: url(/images/logos/16.png)
+        background-image: url(/images/logos/16.webp)
     }
 }
 
@@ -4693,7 +4693,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 135px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/15.png);
+    background-image: url(/images/logos/15.webp);
     min-width: 135px
 }
 
@@ -4702,7 +4702,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-rollingstone {
-        background-image: url(/images/logos/15.png)
+        background-image: url(/images/logos/15.webp)
     }
 }
 
@@ -4712,7 +4712,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 108px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/15.png)
+        background-image: url(/images/logos/15.webp)
     }
 }
 
@@ -4720,7 +4720,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-rollingstone {
-        background-image: url(/images/logos/15.png)
+        background-image: url(/images/logos/15.webp)
     }
 }
 
@@ -4730,7 +4730,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 78px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/15.png)
+        background-image: url(/images/logos/15.webp)
     }
 }
 
@@ -4738,7 +4738,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-rollingstone {
-        background-image: url(/images/logos/15.png)
+        background-image: url(/images/logos/15.webp)
     }
 }
 
@@ -4747,7 +4747,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 185px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/14.png);
+    background-image: url(/images/logos/14.webp);
     min-width: 185px
 }
 
@@ -4756,7 +4756,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-saexpress {
-        background-image: url(/images/logos/14.png)
+        background-image: url(/images/logos/14.webp)
     }
 }
 
@@ -4766,7 +4766,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 149px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/14.png)
+        background-image: url(/images/logos/14.webp)
     }
 }
 
@@ -4774,7 +4774,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-saexpress {
-        background-image: url(/images/logos/14.png)
+        background-image: url(/images/logos/14.webp)
     }
 }
 
@@ -4784,7 +4784,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 106px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/14.png)
+        background-image: url(/images/logos/14.webp)
     }
 }
 
@@ -4792,7 +4792,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-saexpress {
-        background-image: url(/images/logos/14.png)
+        background-image: url(/images/logos/14.webp)
     }
 }
 
@@ -4802,7 +4802,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 190px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/13.png);
+    background-image: url(/images/logos/13.webp);
     min-width: 190px
 }
 
@@ -4811,7 +4811,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-sacramentobee {
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -4821,7 +4821,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 147px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -4829,7 +4829,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-sacramentobee {
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -4839,7 +4839,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 107px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -4847,7 +4847,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-sacramentobee {
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -4857,7 +4857,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 178px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/13.png);
+    background-image: url(/images/logos/13.webp);
     min-width: 178px
 }
 
@@ -4866,7 +4866,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-sfchronicle {
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -4876,7 +4876,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 143px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -4884,7 +4884,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-sfchronicle {
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -4894,7 +4894,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 104px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -4902,7 +4902,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-sfchronicle {
-        background-image: url(/images/logos/13.png)
+        background-image: url(/images/logos/13.webp)
     }
 }
 
@@ -4911,7 +4911,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 59px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/12.png);
+    background-image: url(/images/logos/12.webp);
     min-width: 59px
 }
 
@@ -4920,7 +4920,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-shape {
-        background-image: url(/images/logos/12.png)
+        background-image: url(/images/logos/12.webp)
     }
 }
 
@@ -4930,7 +4930,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 48px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/12.png)
+        background-image: url(/images/logos/12.webp)
     }
 }
 
@@ -4938,7 +4938,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-shape {
-        background-image: url(/images/logos/12.png)
+        background-image: url(/images/logos/12.webp)
     }
 }
 
@@ -4948,7 +4948,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 35px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/12.png)
+        background-image: url(/images/logos/12.webp)
     }
 }
 
@@ -4956,7 +4956,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-shape {
-        background-image: url(/images/logos/12.png)
+        background-image: url(/images/logos/12.webp)
     }
 }
 
@@ -4966,7 +4966,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 161px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/10.png);
+    background-image: url(/images/logos/10.webp);
     min-width: 161px
 }
 
@@ -4975,7 +4975,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-sportsIllustrated {
-        background-image: url(/images/logos/10.png)
+        background-image: url(/images/logos/10.webp)
     }
 }
 
@@ -4985,7 +4985,7 @@ only screen and (min-resolution:1.5dppx),
         height: 28px;
         background-size: 93px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/10.png)
+        background-image: url(/images/logos/10.webp)
     }
 }
 
@@ -4993,7 +4993,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-sportsIllustrated {
-        background-image: url(/images/logos/10.png)
+        background-image: url(/images/logos/10.webp)
     }
 }
 
@@ -5002,7 +5002,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 90px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/11.png);
+    background-image: url(/images/logos/11.webp);
     min-width: 90px
 }
 
@@ -5011,7 +5011,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-thestate {
-        background-image: url(/images/logos/11.png)
+        background-image: url(/images/logos/11.webp)
     }
 }
 
@@ -5021,7 +5021,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 72px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/11.png)
+        background-image: url(/images/logos/11.webp)
     }
 }
 
@@ -5029,7 +5029,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-thestate {
-        background-image: url(/images/logos/11.png)
+        background-image: url(/images/logos/11.webp)
     }
 }
 
@@ -5039,7 +5039,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 54px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/11.png)
+        background-image: url(/images/logos/11.webp)
     }
 }
 
@@ -5047,7 +5047,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-thestate {
-        background-image: url(/images/logos/11.png)
+        background-image: url(/images/logos/11.webp)
     }
 }
 
@@ -5056,7 +5056,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 69px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/10.png);
+    background-image: url(/images/logos/10.webp);
     min-width: 69px
 }
 
@@ -5065,7 +5065,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-time {
-        background-image: url(/images/logos/10.png)
+        background-image: url(/images/logos/10.webp)
     }
 }
 
@@ -5075,7 +5075,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 56px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/10.png)
+        background-image: url(/images/logos/10.webp)
     }
 }
 
@@ -5083,7 +5083,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-time {
-        background-image: url(/images/logos/10.png)
+        background-image: url(/images/logos/10.webp)
     }
 }
 
@@ -5093,7 +5093,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 41px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/10.png)
+        background-image: url(/images/logos/10.webp)
     }
 }
 
@@ -5101,7 +5101,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-time {
-        background-image: url(/images/logos/10.png)
+        background-image: url(/images/logos/10.webp)
     }
 }
 
@@ -5110,7 +5110,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 84px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/9.png);
+    background-image: url(/images/logos/7.webp);
     min-width: 84px
 }
 
@@ -5119,7 +5119,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-todaysparent {
-        background-image: url(/images/logos/9.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -5129,7 +5129,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 68px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/9.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -5137,7 +5137,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-todaysparent {
-        background-image: url(/images/logos/9.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -5147,7 +5147,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 50px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/9.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -5155,7 +5155,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-todaysparent {
-        background-image: url(/images/logos/9.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -5165,7 +5165,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 134px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/8.png);
+    background-image: url(/images/logos/8.webp);
     min-width: 134px
 }
 
@@ -5174,7 +5174,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-townandcountry {
-        background-image: url(/images/logos/8.png)
+        background-image: url(/images/logos/8.webp)
     }
 }
 
@@ -5184,7 +5184,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 108px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/8.png)
+        background-image: url(/images/logos/8.webp)
     }
 }
 
@@ -5192,7 +5192,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-townandcountry {
-        background-image: url(/images/logos/8.png)
+        background-image: url(/images/logos/8.webp)
     }
 }
 
@@ -5202,7 +5202,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 78px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/8.png)
+        background-image: url(/images/logos/8.webp)
     }
 }
 
@@ -5210,7 +5210,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-townandcountry {
-        background-image: url(/images/logos/8.png)
+        background-image: url(/images/logos/8.webp)
     }
 }
 
@@ -5219,7 +5219,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 73px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/7.png);
+    background-image: url(/images/logos/7.webp);
     min-width: 73px
 }
 
@@ -5228,7 +5228,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-travelleisure {
-        background-image: url(/images/logos/7.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -5238,7 +5238,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 58px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/7.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -5246,7 +5246,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-travelleisure {
-        background-image: url(/images/logos/7.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -5256,7 +5256,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 43px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/7.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -5264,7 +5264,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-travelleisure {
-        background-image: url(/images/logos/7.png)
+        background-image: url(/images/logos/7.webp)
     }
 }
 
@@ -5273,7 +5273,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 99px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/6.png);
+    background-image: url(/images/logos/6.webp);
     min-width: 99px
 }
 
@@ -5282,7 +5282,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-vanityfair {
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -5292,7 +5292,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 75px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -5300,7 +5300,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-vanityfair {
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -5310,7 +5310,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 55px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -5318,7 +5318,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-vanityfair {
-        background-image: url(/images/logos/6.png)
+        background-image: url(/images/logos/6.webp)
     }
 }
 
@@ -5327,7 +5327,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 89px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/5.png);
+    background-image: url(/images/logos/5.webp);
     min-width: 89px
 }
 
@@ -5336,7 +5336,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-vogue {
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -5346,7 +5346,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 67px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -5354,7 +5354,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-vogue {
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -5364,7 +5364,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 50px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -5372,7 +5372,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-vogue {
-        background-image: url(/images/logos/5.png)
+        background-image: url(/images/logos/5.webp)
     }
 }
 
@@ -5381,7 +5381,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 45px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/4.png);
+    background-image: url(/images/logos/4.webp);
     min-width: 45px
 }
 
@@ -5390,7 +5390,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-vox {
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -5400,7 +5400,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 37px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -5408,7 +5408,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-vox {
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -5418,7 +5418,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 27px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -5426,7 +5426,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-vox {
-        background-image: url(/images/logos/4.png)
+        background-image: url(/images/logos/4.webp)
     }
 }
 
@@ -5435,7 +5435,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 107px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/3.png);
+    background-image: url(/images/logos/3.webp);
     min-width: 107px
 }
 
@@ -5444,7 +5444,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-wired {
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -5454,7 +5454,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 83px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -5462,7 +5462,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-wired {
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -5472,7 +5472,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 61px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -5480,7 +5480,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-wired {
-        background-image: url(/images/logos/3.png)
+        background-image: url(/images/logos/3.webp)
     }
 }
 
@@ -5490,7 +5490,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 137px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/2.png);
+    background-image: url(/images/logos/2.webp);
     min-width: 137px
 }
 
@@ -5499,7 +5499,7 @@ only screen and (min-resolution:1.5dppx),
 (-webkit-min-device-pixel-ratio:1.5),
 (min-resolution:144dpi) {
     .image-hero-logo-womenshealth {
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -5509,7 +5509,7 @@ only screen and (min-resolution:1.5dppx),
         height: 38px;
         background-size: 110px 38px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -5517,7 +5517,7 @@ only screen and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:1.5dppx),
 only screen and (max-width:1068px) and (min-resolution:144dpi) {
     .image-hero-logo-womenshealth {
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -5527,7 +5527,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
         height: 28px;
         background-size: 79px 28px;
         background-repeat: no-repeat;
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -5535,7 +5535,7 @@ only screen and (max-width:1068px) and (min-resolution:144dpi) {
 only screen and (max-width:734px) and (min-resolution:1.5dppx),
 only screen and (max-width:734px) and (min-resolution:144dpi) {
     .image-hero-logo-womenshealth {
-        background-image: url(/images/logos/2.png)
+        background-image: url(/images/logos/2.webp)
     }
 }
 
@@ -5545,7 +5545,7 @@ only screen and (max-width:734px) and (min-resolution:144dpi) {
     height: 47px;
     background-size: 181px 47px;
     background-repeat: no-repeat;
-    background-image: url(/images/logos/1.png);
+    background-image: url(/images/logos/1.webp);
     min-width: 181px
 }
 
