@@ -92,11 +92,9 @@ waitlistSubmitBtns.forEach((btn) =>
       );
 
       const data = await response.json();
-      console.log(response);
-      console.log(data);
 
       if (response.ok) {
-        console.log(data);
+        content.innerText = 'You successfully subscribed to our waiting list!';
         popup.classList.remove('popup-container-hide');
         setTimeout(() => {
           popup.classList.add('popup-container-hide');
