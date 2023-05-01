@@ -12208,6 +12208,15 @@ body:not(.older-safari) .iazbt>p:nth-child(3) {
     padding: calc(var(--nav-height) + var(--banner-height, 6rem) + var(--spacer-64)) 0 0
 }
 
+
+@media (min-width:961px) {
+    section.l74oB.rZjqm {
+        padding-top: calc(var(--nav-height) + var(--spacer-160));
+        padding-bottom: 20vh;
+    }
+}
+
+
 @media (min-width:961px) {
     .l74oB {
         --content-wrapper-top: calc(var(--spacer-96) + var(--nav-height));
